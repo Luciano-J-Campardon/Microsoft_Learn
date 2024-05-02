@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Work with variable data in  C# console applications")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+213deb97bb50bda00bc3527fba7d60ba3c9b3e9e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7000f497882b739ead3f46ee37ab4a5f6cc1e4e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Work with variable data in  C# console applications")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Work with variable data in  C# console applications")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
