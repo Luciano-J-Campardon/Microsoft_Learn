@@ -153,7 +153,7 @@ do
             string dogDescription = "";
 
             // #4 update to "rotating" animation with countdown
-            string[] searchingIcons = {"|2|", "|1|", "|0|"};
+            string[] searchingIcons = { "|2|", "|1|", "|0|" };
 
             // loop ourAnimals array to search for matching animals
             for (int i = 0; i < maxPets; i++)
@@ -186,15 +186,18 @@ do
                             }
                         }
 
-                        //#3d if "this dog" is match write match message + dog description
                         if (dogMatches > 0)
                         {
                             Console.WriteLine($"\n{ourAnimals[i, 3]} ({ourAnimals[i, 0]})");
                             Console.WriteLine($"{ourAnimals[i, 4]}\n{ourAnimals[i, 5]}");
                         }
+                        //#3d if "this dog" is match write match message + dog description
+
                     }
                     else if (ourAnimals[i, 3].Replace("Nickname: ", "") == "gus")
                     {
+                        dogMatches = 0;
+
                         foreach (string characteristic in dogCharacteristics)
                         {
                             if (dogDescription.Contains(characteristic))
@@ -214,12 +217,12 @@ do
                             }
                         }
 
-                        //#3d if "this dog" is match write match message + dog description
                         if (dogMatches > 0)
                         {
                             Console.WriteLine($"\n{ourAnimals[i, 3]} ({ourAnimals[i, 0]})");
                             Console.WriteLine($"{ourAnimals[i, 4]}\n{ourAnimals[i, 5]}");
                         }
+                        //#3d if "this dog" is match write match message + dog description
                     }
                 }
             }
