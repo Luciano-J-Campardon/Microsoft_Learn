@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UtL8OlNxlJ9OpZ4kChrRB5oxFjUkxXPat0DxECzYlAebNj9AkgPagZEQf31I71s2xbty+kty2JKSAZtM/VSKvA==",
+  "success": true,
+  "projectFilePath": "/home/lucianocampardon/repos/Microsoft_Learn/C#/Work with variable data in  C# console applications/Guided project - Work with variable data in C#/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/Starter.csproj",
+  "expectedPackageFiles": [
+    "/home/lucianocampardon/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.18/microsoft.netcore.app.host.linux-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

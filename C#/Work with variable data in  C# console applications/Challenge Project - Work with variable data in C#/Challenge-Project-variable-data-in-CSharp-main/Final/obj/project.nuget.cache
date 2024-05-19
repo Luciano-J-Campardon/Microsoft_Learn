@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0F6iIt2suwC9H7ppxvo4sG2tU5OJLXKO5QP8X7s2y/xff1ohhm8LRq7SFCNNiO2RazkklRqvNCDt4KU3f2B4kw==",
+  "success": true,
+  "projectFilePath": "/home/lucianocampardon/repos/Microsoft_Learn/C#/Work with variable data in  C# console applications/Challenge Project - Work with variable data in C#/Challenge-Project-variable-data-in-CSharp-main/Final/Final.csproj",
+  "expectedPackageFiles": [
+    "/home/lucianocampardon/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.18/microsoft.netcore.app.host.linux-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
