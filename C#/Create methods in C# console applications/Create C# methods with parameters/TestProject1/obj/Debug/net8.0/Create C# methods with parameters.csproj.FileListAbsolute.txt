@@ -1,0 +1,15 @@
+/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Create C# methods with parameters/bin/Debug/net8.0/Create C# methods with parameters
+/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Create C# methods with parameters/bin/Debug/net8.0/Create C# methods with parameters.deps.json
+/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Create C# methods with parameters/bin/Debug/net8.0/Create C# methods with parameters.runtimeconfig.json
+/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Create C# methods with parameters/bin/Debug/net8.0/Create C# methods with parameters.dll
+/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Create C# methods with parameters/bin/Debug/net8.0/Create C# methods with parameters.pdb
+/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Create C# methods with parameters/obj/Debug/net8.0/Create C# methods with parameters.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Create C# methods with parameters/obj/Debug/net8.0/Create C# methods with parameters.AssemblyInfoInputs.cache
+/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Create C# methods with parameters/obj/Debug/net8.0/Create C# methods with parameters.AssemblyInfo.cs
+/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Create C# methods with parameters/obj/Debug/net8.0/Create C# methods with parameters.csproj.CoreCompileInputs.cache
+/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Create C# methods with parameters/obj/Debug/net8.0/Create C# methods with parameters.sourcelink.json
+/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Create C# methods with parameters/obj/Debug/net8.0/Create C# methods with parameters.dll
+/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Create C# methods with parameters/obj/Debug/net8.0/refint/Create C# methods with parameters.dll
+/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Create C# methods with parameters/obj/Debug/net8.0/Create C# methods with parameters.pdb
+/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Create C# methods with parameters/obj/Debug/net8.0/Create C# methods with parameters.genruntimeconfig.cache
+/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Create C# methods with parameters/obj/Debug/net8.0/ref/Create C# methods with parameters.dll

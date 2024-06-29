@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Create C# methods with parameters/Exercise 1 - DISPLAY EMAIL ADDRESSES/Exercise 1 - DISPLAY EMAIL ADDRESSES.csproj": {}
+  },
+  "projects": {
+    "/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Create C# methods with parameters/Exercise 1 - DISPLAY EMAIL ADDRESSES/Exercise 1 - DISPLAY EMAIL ADDRESSES.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Create C# methods with parameters/Exercise 1 - DISPLAY EMAIL ADDRESSES/Exercise 1 - DISPLAY EMAIL ADDRESSES.csproj",
+        "projectName": "Exercise 1 - DISPLAY EMAIL ADDRESSES",
+        "projectPath": "/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Create C# methods with parameters/Exercise 1 - DISPLAY EMAIL ADDRESSES/Exercise 1 - DISPLAY EMAIL ADDRESSES.csproj",
+        "packagesPath": "/home/lucianocampardon/.nuget/packages/",
+        "outputPath": "/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Create C# methods with parameters/Exercise 1 - DISPLAY EMAIL ADDRESSES/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/lucianocampardon/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.104/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
