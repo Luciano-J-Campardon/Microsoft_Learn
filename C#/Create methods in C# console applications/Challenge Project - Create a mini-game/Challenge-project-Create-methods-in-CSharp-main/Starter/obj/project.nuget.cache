@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3FjVLFKSBfJLtPJJpyd6fYQHzQwsy1rzdOxiSgNriH2uS5OTs5chvgzIh+DxYsOaxZ85HuZs0hYM0X5PIwrX2A==",
+  "success": true,
+  "projectFilePath": "/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Challenge Project - Create a mini-game/Challenge-project-Create-methods-in-CSharp-main/Starter/Starter.csproj",
+  "expectedPackageFiles": [
+    "/home/lucianocampardon/.nuget/packages/microsoft.netcore.app.ref/6.0.29/microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "/home/lucianocampardon/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.29/microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "/home/lucianocampardon/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.29/microsoft.netcore.app.host.linux-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

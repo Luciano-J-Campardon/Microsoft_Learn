@@ -1,0 +1,15 @@
+/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Guided Project - Plan a Petting Zoo Visit /bin/Debug/net8.0/Guided Project - Plan a Petting Zoo Visit
+/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Guided Project - Plan a Petting Zoo Visit /bin/Debug/net8.0/Guided Project - Plan a Petting Zoo Visit.deps.json
+/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Guided Project - Plan a Petting Zoo Visit /bin/Debug/net8.0/Guided Project - Plan a Petting Zoo Visit.runtimeconfig.json
+/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Guided Project - Plan a Petting Zoo Visit /bin/Debug/net8.0/Guided Project - Plan a Petting Zoo Visit.dll
+/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Guided Project - Plan a Petting Zoo Visit /bin/Debug/net8.0/Guided Project - Plan a Petting Zoo Visit.pdb
+/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Guided Project - Plan a Petting Zoo Visit /obj/Debug/net8.0/Guided Project - Plan a Petting Zoo Visit.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Guided Project - Plan a Petting Zoo Visit /obj/Debug/net8.0/Guided Project - Plan a Petting Zoo Visit.AssemblyInfoInputs.cache
+/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Guided Project - Plan a Petting Zoo Visit /obj/Debug/net8.0/Guided Project - Plan a Petting Zoo Visit.AssemblyInfo.cs
+/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Guided Project - Plan a Petting Zoo Visit /obj/Debug/net8.0/Guided Project - Plan a Petting Zoo Visit.csproj.CoreCompileInputs.cache
+/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Guided Project - Plan a Petting Zoo Visit /obj/Debug/net8.0/Guided Project - Plan a Petting Zoo Visit.sourcelink.json
+/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Guided Project - Plan a Petting Zoo Visit /obj/Debug/net8.0/Guided Project - Plan a Petting Zoo Visit.dll
+/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Guided Project - Plan a Petting Zoo Visit /obj/Debug/net8.0/refint/Guided Project - Plan a Petting Zoo Visit.dll
+/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Guided Project - Plan a Petting Zoo Visit /obj/Debug/net8.0/Guided Project - Plan a Petting Zoo Visit.pdb
+/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Guided Project - Plan a Petting Zoo Visit /obj/Debug/net8.0/Guided Project - Plan a Petting Zoo Visit.genruntimeconfig.cache
+/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Guided Project - Plan a Petting Zoo Visit /obj/Debug/net8.0/ref/Guided Project - Plan a Petting Zoo Visit.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/lucianocampardon/repos/Microsoft_Learn/C#/Work with variable data in  C# console applications/Perform operations on arrays using helper methods in C#/TestProject3/TestProject3.csproj",
+      "projectUniqueName": "/home/lucianocampardon/Programming/Microsoft_Learn/C#/Work with variable data in  C# console applications/Perform operations on arrays using helper methods in C#/TestProject3/TestProject3.csproj",
       "projectName": "TestProject3",
-      "projectPath": "/home/lucianocampardon/repos/Microsoft_Learn/C#/Work with variable data in  C# console applications/Perform operations on arrays using helper methods in C#/TestProject3/TestProject3.csproj",
+      "projectPath": "/home/lucianocampardon/Programming/Microsoft_Learn/C#/Work with variable data in  C# console applications/Perform operations on arrays using helper methods in C#/TestProject3/TestProject3.csproj",
       "packagesPath": "/home/lucianocampardon/.nuget/packages/",
-      "outputPath": "/home/lucianocampardon/repos/Microsoft_Learn/C#/Work with variable data in  C# console applications/Perform operations on arrays using helper methods in C#/TestProject3/obj/",
+      "outputPath": "/home/lucianocampardon/Programming/Microsoft_Learn/C#/Work with variable data in  C# console applications/Perform operations on arrays using helper methods in C#/TestProject3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/lucianocampardon/.nuget/NuGet/NuGet.Config"

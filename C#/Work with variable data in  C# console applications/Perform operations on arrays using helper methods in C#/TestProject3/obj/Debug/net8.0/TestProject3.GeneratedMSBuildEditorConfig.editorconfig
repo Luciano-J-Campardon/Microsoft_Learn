@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TestProject3
-build_property.ProjectDir = /home/lucianocampardon/repos/Microsoft_Learn/C#/Work with variable data in  C# console applications/Perform operations on arrays using helper methods in C#/TestProject3/
+build_property.ProjectDir = /home/lucianocampardon/Programming/Microsoft_Learn/C#/Work with variable data in  C# console applications/Perform operations on arrays using helper methods in C#/TestProject3/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
