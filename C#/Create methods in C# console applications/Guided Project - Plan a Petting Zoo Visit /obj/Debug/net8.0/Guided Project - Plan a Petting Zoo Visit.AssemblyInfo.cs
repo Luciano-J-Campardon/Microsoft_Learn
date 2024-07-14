@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Guided Project - Plan a Petting Zoo Visit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+125fcd5ef5495cf9732cb67af7d19f9df0bb8c69")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edcad0370b7c6c58dfcf1dea74064fe91c557041")]
 [assembly: System.Reflection.AssemblyProductAttribute("Guided Project - Plan a Petting Zoo Visit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Guided Project - Plan a Petting Zoo Visit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Guided Project - Plan a Petting Zoo Visit /Guided Project - Plan a Petting Zoo Visit.csproj",
+      "projectUniqueName": "/home/lucianocampardon/Programming/Microsoft_Learn/C#/Create methods in C# console applications/Guided Project - Plan a Petting Zoo Visit /Guided Project - Plan a Petting Zoo Visit.csproj",
       "projectName": "Guided Project - Plan a Petting Zoo Visit",
-      "projectPath": "/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Guided Project - Plan a Petting Zoo Visit /Guided Project - Plan a Petting Zoo Visit.csproj",
+      "projectPath": "/home/lucianocampardon/Programming/Microsoft_Learn/C#/Create methods in C# console applications/Guided Project - Plan a Petting Zoo Visit /Guided Project - Plan a Petting Zoo Visit.csproj",
       "packagesPath": "/home/lucianocampardon/.nuget/packages/",
-      "outputPath": "/home/lucianocampardon/repos/Microsoft_Learn/C#/Create methods in C# console applications/Guided Project - Plan a Petting Zoo Visit /obj/",
+      "outputPath": "/home/lucianocampardon/Programming/Microsoft_Learn/C#/Create methods in C# console applications/Guided Project - Plan a Petting Zoo Visit /obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/lucianocampardon/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.104/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
